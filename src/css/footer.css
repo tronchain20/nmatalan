@@ -1,0 +1,119 @@
+.footer-div {
+    border-top: 1px solid rgb(204, 204, 204);
+    width: 100%;
+    display: flex;
+}
+
+.footer-left {
+    width: 50%;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.footer-left a {
+    width: 150px;
+    height: 45px;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    display: inline-flex;
+    position: relative;
+    transition: background-color 0.2s, border-color 0.2s;
+    background-color: rgb(173, 30, 31);
+    border: 1px solid rgb(173, 30, 31);
+    color: rgb(255, 255, 255);
+    border-radius: 0px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.footer-left p {
+    color: rgb(39, 39, 39);
+    font-weight: 600;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 24px;
+    letter-spacing: 0px;
+}
+
+.footer-right {
+    width: 50%;
+    margin-left: 10px;
+}
+
+.footer-right p {
+    color: rgb(39, 39, 39);
+    font-weight: 600;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 24px;
+    letter-spacing: 0px;
+}
+
+.footer-icons {
+    display: flex;
+    align-items: center;
+}
+
+.footer-icons div {
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.footer-payments {
+    border-top: 1px solid rgb(204, 204, 204);
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+}
+
+.footer-payments-left {
+    width: 50%;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.footer-payments-left p {
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: #757575;
+}
+
+.footer-payments-right {
+    width: 50%;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.footer-payments-right p {
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+    color: #333333;
+}
+
+.footer-payment-icons {
+    display: flex;
+    align-items: center;
+}
+
+.footer-payment-icons div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 60px;
+    height: 40px;
+    margin-right: 8px;
+    border-radius: 4px;
+    border: 1px solid rgb(221, 221, 221);
+    background-color: rgb(255, 255, 255);
+}
+
+.footer-payment-icons img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}

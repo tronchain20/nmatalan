@@ -1,0 +1,14 @@
+<svg viewBox="0 0 40 40" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="40" height="40">
+        <title>Youtube</title>
+        <g id="social-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="Artboard" transform="translate(-797.000000, -317.000000)" fill="none">
+            <g id="Group" transform="translate(797.000000, 317.000000)" fill="none">
+              <g id="instagram" fill="#D8D8D8">
+                <circle id="Oval-2-Copy" cx="20" cy="20" r="20" fill="#FFFFFF"></circle>
+              </g>
+              <g id="Youtube" transform="translate(10.000000, 13.000000)" fill="#333333">
+                <path d="M4,0 L16,0 C18.209139,-4.05812251e-16 20,1.790861 20,4 L20,10 C20,12.209139 18.209139,14 16,14 L4,14 C1.790861,14 2.705415e-16,12.209139 0,10 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z M14.0923077,6.87471264 L7.69230769,10.6344828 L7.69230769,3.11494253 L14.0923077,6.87471264" fill="#383838"></path>
+              </g>
+            </g>
+          </g>
+        </g></svg>

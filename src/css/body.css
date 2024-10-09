@@ -1,0 +1,22 @@
+main {
+    padding-top: 120px;
+    margin-top: 10px;
+}
+
+.app-exlusive-discount {
+    width: 100%;
+    height: 45px;
+    background-color: rgb(51, 51, 51);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: 500;
+    font-style: normal;
+    position: fixed;
+}
+
+.special-off-img {
+    display: block;
+    width: 100%;
+}
