@@ -55,10 +55,10 @@
 .footer-icons {
     display: flex;
     align-items: center;
+    gap: 10px;
 }
 
 .footer-icons div {
-    margin-left: 10px;
     cursor: pointer;
 }
 
@@ -98,6 +98,7 @@
 .footer-payment-icons {
     display: flex;
     align-items: center;
+    margin-bottom: 30px;
 }
 
 .footer-payment-icons div {

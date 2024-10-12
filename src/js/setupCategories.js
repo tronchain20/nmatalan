@@ -1,12 +1,12 @@
 document.addEventListener('DOMContentLoaded', function () {
     const categories = {
-      'WOMENS': ['Clothing', 'Dresses', 'Footwear', 'Accessories'],
-      'MENS': ['Clothing', 'Footwear', 'Accessories', 'Grooming'],
-      'KIDS': ['Clothing', 'Footwear', 'Toys', 'Accessories'],
-      'HOME': ['Furniture', 'Decor', 'Bedding', 'Lighting'],
-      'SALE': ['Womens Sale', 'Mens Sale', 'Kids Sale', 'Home Sale'],
-      'CHRISTMAS': ['Gifts', 'Decor', 'Party Wear'],
-      'AUTUMN': ['Jackets', 'Coats', 'Knitwear'],
+      'WOMENS': ['Clothing', 'Lingerie & Nightwear', 'Dresses', 'Footwear', 'Accessories', 'Beauty', 'Brands', 'Collections', 'Sale & Offers', 'Clearance'],
+      'MENS': ['Clothing', 'Suits & Formalwear', 'Nightwear & Underwear', 'Footwear', 'Accessories', 'Brands', 'Collections', 'Sale & Offers'],
+      'KIDS': ['Girls', 'Boys', 'Baby', 'School Uniform', 'Footwear', 'Character, Toys & Games', 'Accessories', 'Brands', 'Collections', 'Sale & Offers'],
+      'HOME': ['Home Accessories', 'Bedding', 'Kitchen & Dining', 'Bathroom', 'Christmas', 'Lightning', 'Furniture', 'Travel', 'Sale & Offers', 'Shop By Room'],
+      'SALE': ['Womens Sale & Offers', 'Mens Sale & Offers', 'Kids Sale & Offers', 'Home Sale & Offers'],
+      'CHRISTMAS': ['Christmas Trees & Decorations', 'Christmas Clothing', 'Christmas Homeware', 'Christmas Gifts', 'Christmas Wrapping'],
+      'AUTUMN': ['Halloween', 'Autumn Fashion', 'Cosy Home', 'Coats & Jackets', 'Boots', 'Lightning'],
     };
   
     const mainMenuLinks = document.querySelectorAll('.nav-menu a');

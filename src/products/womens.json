@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Alder Hey Adults Navy Pyjama Set",
+        "desc": "Description of product 1",
+        "price": 19.99,
+        "image_url": "./src/products/images/Alder Hey Adults Navy Pyjama Set.jpg",
+        "tags": "tag1, tag2",
+        "rating": 4.5,
+        "ratings": 123
+    }
+]
