@@ -10,11 +10,7 @@ router.get('/getProductsList', async (req, res) => {
         res.sendStatus(500);
     }
     else {
-        let data = null;
-        if (req.query.type === 'womens') {
-            data = await fs.readFile('./src/products/womens.json', 'utf-8');
-        }
-        res.json(JSON.parse(data));
+        res.json(JSON.parse(await fs.readFile(`./src/products/${req.query.type}.json`, 'utf-8')));
     }
 });
 

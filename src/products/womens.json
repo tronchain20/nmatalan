@@ -1,10 +1,111 @@
 [
     {
+        "id": 0,
         "name": "Alder Hey Adults Navy Pyjama Set",
-        "desc": "Description of product 1",
-        "price": 19.99,
-        "image_url": "./src/products/images/Alder Hey Adults Navy Pyjama Set.jpg",
-        "tags": "tag1, tag2",
+        "desc": "Alder Hey Adults Navy Pyjama Set",
+        "price": 13.99,
+        "image_url": "./products/images/Alder Hey Adults Navy Pyjama Set.jpg",
+        "tags": "pyjama",
+        "rating": 4.5,
+        "ratings": 123
+    },
+    {
+        "id": 1,
+        "name": "Grey Bear Button Up Pyjama Set",
+        "desc": "Grey Bear Button Up Pyjama Set",
+        "price": 17.99,
+        "image_url": "./products/images/Grey Bear Button Up Pyjama Set.jpeg",
+        "tags": "pyjama, set",
+        "rating": 4.5,
+        "ratings": 123
+    },
+    {
+        "id": 2,
+        "name": "Cream Borg Loungewear Set",
+        "desc": "Cream Borg Loungewear Set",
+        "price": 22.99,
+        "image_url": "./products/images/Cream Borg Loungewear Set.jpg",
+        "tags": "knitwear, set",
+        "rating": 4.5,
+        "ratings": 123
+    },
+    {
+        "id": 3,
+        "name": "Pink Fairisle Pyjama Set",
+        "desc": "Pink Fairisle Pyjama Set",
+        "price": 13.99,
+        "image_url": "./products/images/Pink Fairisle Pyjama Set.jpg",
+        "tags": "pyjama, set",
+        "rating": 4.5,
+        "ratings": 123
+    },
+    {
+        "id": 4,
+        "name": "Black Borg Aviator Jacket",
+        "desc": "Black Borg Aviator Jacket",
+        "price": 45.99,
+        "image_url": "./products/images/Black Borg Aviator Jacket.jpg",
+        "tags": "jacket",
+        "rating": 4.5,
+        "ratings": 123
+    },
+    {
+        "id": 5,
+        "name": "Beige Borg Aviator Jacket",
+        "desc": "Beige Borg Aviator Jacket",
+        "price": 45.99,
+        "image_url": "./products/images/Beige Borg Aviator Jacket.jpg",
+        "tags": "jacket",
+        "rating": 4.5,
+        "ratings": 123
+    },
+    {
+        "id": 6,
+        "name": "Black Fluffy Cardigan",
+        "desc": "Black Fluffy Cardigan",
+        "price": 17.60,
+        "image_url": "./products/images/Black Fluffy Cardigan.jpg",
+        "tags": "jacket",
+        "rating": 4.5,
+        "ratings": 123
+    },
+    {
+        "id": 7,
+        "name": "Beige Button Front Cardigan",
+        "desc": "Beige Button Front Cardigan",
+        "price": 16.60,
+        "image_url": "./products/images/Beige Button Front Cardigan.jpg",
+        "tags": "jacket",
+        "rating": 4.5,
+        "ratings": 123
+    },
+    {
+        "id": 8,
+        "name": "Et Vous Brown Animal Midi Dress",
+        "desc": "Et Vous Brown Animal Midi Dress",
+        "price": 28.99,
+        "image_url": "./products/images/Et Vous Brown Animal Midi Dress.jpg",
+        "tags": "jacket",
+        "rating": 4.5,
+        "ratings": 123
+    },
+    {
+        "id": 9,
+        "name": "White Bow T-Shirt",
+        "desc": "White Bow T-Shirt",
+        "price": 9.99,
+        "image_url": "./products/images/White Bow T-Shirt.jpg",
+        "tags": "jacket",
+        "rating": 4.5,
+        "ratings": 123
+    },
+    {
+        "id": 10,
+        "name": "Et Vous Brown Animal Blouse",
+        "desc": "Et Vous Brown Animal Blouse",
+        "price": 9.99,
+        "image_url": "./products/images/Et Vous Brown Animal Blouse.jpg",
+        "tags": "jacket",
         "rating": 4.5,
         "ratings": 123
     }

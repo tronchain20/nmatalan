@@ -13,8 +13,7 @@ function createProductCard(product) {
 
     // Картинка товара
     const img = document.createElement('img');
-    img.src = product.image_url;
-    img.alt = product.name;
+    img.src = `${window.location.origin}/${product.image_url}`;
 
     // Название товара
     const name = document.createElement('div');
