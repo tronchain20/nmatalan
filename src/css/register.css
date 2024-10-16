@@ -54,16 +54,8 @@ input {
     font-size: 14px;
 }
 
-a {
-    font-size: 18px;
-    color: #999;
-    text-decoration: underline;
-    margin-bottom: 20px;
-}
-
 button {
     background-color: #a51d20;
-    width: 400px;
     height: 45px;
     color: white;
     padding: 10px;
@@ -77,22 +69,23 @@ button:hover {
     background-color: #8e181b;
 }
 
-.social-login {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 20px;
+a {
+    font-size: 18px;
+    color: #999;
+    text-decoration: underline;
+    margin-bottom: 20px;
 }
 
-.facebook-btn, .google-btn {
-    border-color: rgb(102, 102, 102);
-    background-color: #fff;
-    width: 45%;
-    padding: 10px;
+.agreement {
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 25px;
+    justify-content: center;
 }
 
-.facebook-btn:hover, .google-btn:hover {
-    border-top-width: 1px;
-    color: rgb(102, 102, 102);
-    border-top-color: rgb(242, 242, 242);
-    background-color: rgb(242, 242, 242);
+.agreement-decorated {
+    font-weight: 500;
+    text-decoration: underline;
+    color: rgb(56, 56, 56);
+    text-decoration-color: rgb(56, 56, 56);
 }

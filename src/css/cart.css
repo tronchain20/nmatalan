@@ -1,0 +1,38 @@
+.basket-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 120px;
+    margin-top: 10px;
+}
+
+.basket-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 300px;
+}
+
+.continue-shopping {
+    background-color: #a51d20;
+    width: 400px;
+    height: 45px;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.continue-shopping:hover {
+    background-color: #8e181b;
+}
+
+.no-items-header {
+    font-size: 26px;
+    font-weight: 600;
+    color: rgb(51, 51, 51);
+}
